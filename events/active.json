@@ -1,0 +1,32 @@
+{
+  "slug": "pk-food-and-event-management-cherukavu",
+  "name": "PK Food & Event Management",
+  "shortName": "PK Food & Event Management",
+  "descriptor": "Catering & Events",
+  "address": "Cherukavu, Keralam 673637",
+  "area": "Cherukavu",
+  "city": "Cherukavu",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "673637",
+  "geo": {
+    "lat": 11.1746875,
+    "lng": 75.9075625
+  },
+  "mapsLink": "https://maps.google.com/?cid=5493317373909946699",
+  "phone": "+91 97449 70573",
+  "whatsapp": "919744970573",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 0,
+  "reviewCount": 0,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://pk-food-and-event-management-cheruk.vercel.app"
+}
